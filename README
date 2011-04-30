@@ -1,0 +1,10 @@
+This repository consists of the data (20nm slices) of
+the tristimulus of the human eye (directory data) and
+an application of this data to a angular resolution
+problem of the Peterberger Halbmeter Telescope (PHT),
+which can be found in 'pht-resolution'.
+
+The data was extracted from the following blog post
+and is widely available on the internet, but only in
+graph/image form. If you want to do your own prints,
+you need the data provided in this repository.
